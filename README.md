@@ -21,6 +21,11 @@ Foxy is a little 2D pixel Companion that walks around your screen to accompany w
 - Follows cursor
 - random wandering toggeable
 
+## Installation
+1. Go to [Releases](https://github.com/glitchchh/foxy/releases)
+2. Download `foxy.exe`
+3. Run it. (Note: You may need to click "More Info" -> "Run Anyway" on Windows)
+
 ## Acknowledgements
 
  - [Foxy Spritesheet](https://opengameart.org/content/fox-wolf-pack-rework)

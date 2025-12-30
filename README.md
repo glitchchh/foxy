@@ -14,7 +14,6 @@ Foxy is a little 2D pixel Companion that walks around your screen to accompany w
 ![App Screenshot](https://i.imgur.com/Nne3re8.png)
 
 ## Preview
-![App Screenshot](readme.md)
 ![App Screenshot](https://i.imgur.com/Juicev6.gif)
 
 ## Features
